@@ -47,7 +47,8 @@ Vrinda store wants to create an annual sales report. So that, Vrinda can underst
 
 ![sales](https://github.com/user-attachments/assets/ea673a83-4008-4b7e-9902-6474e0ea4c31)
 
-![order](https://github.com/user-attachments/assets/db5499a8-d7a3-449c-8bf2-77d3c05b1b3b)
+![orders](https://github.com/user-attachments/assets/8ccfa011-9ce4-46ed-96ce-e88307ebe0ad)
+
 
 
 
